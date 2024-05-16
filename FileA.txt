@@ -2,4 +2,5 @@ this is my first content in file A.
 change 1st in file ...
 {
    change in file A
+   line 2 of change
 }

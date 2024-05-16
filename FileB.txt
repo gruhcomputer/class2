@@ -1,4 +1,5 @@
 this is file B
 {
    CHANGE;
+   line 2 of change
 }
