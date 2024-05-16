@@ -1,3 +1,4 @@
 this is file C content.
 this is a change in file C...
    line 2 of change
+   line 3 change
