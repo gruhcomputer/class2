@@ -6,4 +6,5 @@ if (a==null)
    change in file A
    line 2 of change
    line 3 change;
+   call newFunction();
 }

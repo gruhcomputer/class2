@@ -2,5 +2,6 @@ this is file B
 {
    CHANGE;
    line 2 of change
-   line 3 change
+   line 3 change;
+;
 }
