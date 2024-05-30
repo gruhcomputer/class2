@@ -1,6 +1,8 @@
 this is my first content in file A.
 change 1st in file ...
 {
+if (a==null)
+	return;
    change in file A
    line 2 of change
    line 3 change;
