@@ -4,4 +4,5 @@ change 1st in file ...
    change in file A
    line 2 of change
    line 3 change;
+   call newFunction();
 }
